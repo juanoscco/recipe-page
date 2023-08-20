@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![image](https://github.com/JuanOsccoMori/recipe-page/assets/58866695/e1d367fa-f0ea-4a8e-8aff-9f07bda0b982)
 
 In this project you can see a blog where it deals with ingredients and preparation of a cake, I like this type of challenge where my knowledge of html and scss is put to the test.
 

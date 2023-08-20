@@ -39,20 +39,14 @@
 
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+In this project you can see a blog where it deals with ingredients and preparation of a cake, I like this type of challenge where my knowledge of html and scss is put to the test.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML5](https://developer.mozilla.org/es/docs/Web/HTML)
+- [SCSS/CSS](https://sass-lang.com/)
 
 ## Features
 
